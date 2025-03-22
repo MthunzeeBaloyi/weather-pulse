@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+venv/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Environment variables
+.env
+.env.local
+
+# Cache
+__pycache__/
+.pytest_cache/
+.coverage
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*

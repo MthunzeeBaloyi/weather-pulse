@@ -1,0 +1,27 @@
+{
+  "clothing": {
+    "freezing": "Heavy winter coat, thermal layers, gloves, scarf, and warm hat",
+    "cold": "Winter coat, sweater, long pants, and a light scarf",
+    "cool": "Light jacket or sweater with long pants",
+    "warm": "T-shirt with light pants or shorts",
+    "hot": "Light, breathable clothing, shorts, and consider a hat for sun protection"
+  },
+  "activities": {
+    "Clear": ["Go for a hike", "Have a picnic in the park", "Visit an outdoor cafe", "Go for a bike ride", "Stargaze at night"],
+    "Clouds": ["Visit a museum", "Go shopping", "Take a scenic drive", "Visit a botanical garden", "Go to a farmers market"],
+    "Rain": ["Visit a cozy cafe", "Go to a movie", "Read a book at home", "Visit an art gallery", "Cook a new recipe"],
+    "Snow": ["Build a snowman", "Go sledding", "Enjoy hot chocolate by the fire", "Take winter photos", "Have a movie marathon"],
+    "Thunderstorm": ["Watch movies at home", "Visit an indoor mall", "Cook a nice meal", "Play board games", "Catch up on reading"],
+    "Drizzle": ["Visit an art gallery", "Go to a bookstore", "Try a new restaurant", "Go to a coffee shop", "Visit a local museum"],
+    "Mist": ["Take atmospheric photos", "Visit a botanical garden", "Explore local shops", "Go to a cozy cafe", "Visit a library"]
+  },
+  "health_tips": {
+    "Clear": "Don't forget sunscreen and stay hydrated!",
+    "Clouds": "Moderate UV levels - still consider sun protection.",
+    "Rain": "Stay dry to avoid catching a cold.",
+    "Snow": "Dress in layers and protect your extremities from the cold.",
+    "Thunderstorm": "Stay indoors and away from windows during lightning.",
+    "Drizzle": "Carry an umbrella and wear water-resistant shoes.",
+    "Mist": "Drive carefully if visibility is reduced."
+  }
+}

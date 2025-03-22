@@ -1,0 +1,12 @@
+setup.py
+tests/test_insights.py
+weather_pulse/__init__.py
+weather_pulse.egg-info/PKG-INFO
+weather_pulse.egg-info/SOURCES.txt
+weather_pulse.egg-info/dependency_links.txt
+weather_pulse.egg-info/requires.txt
+weather_pulse.egg-info/top_level.txt
+weather_pulse/insights/__init__.py
+weather_pulse/insights/generator.py
+weather_pulse/utils/__init__.py
+weather_pulse/utils/helpers.py
